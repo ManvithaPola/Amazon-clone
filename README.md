@@ -42,7 +42,7 @@ A fully responsive and visually engaging **Amazon homepage replica**, built with
 
 ## 🚀 Live Demo
 
-🌐 [Live Website Link](https://amazonclone-manvitha.netlify.app/) *(Replace with your actual link)*  
+🌐 [Live Website Link](https://amazonclone-manvitha.netlify.app/)  
 📂 [GitHub Repository](https://github.com/ManvithaPola/Amazon-clone)
 
 ---
